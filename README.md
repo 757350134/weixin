@@ -1,9 +1,9 @@
                                                       
 ## weixin                                                     
-== 微信机器人python版本
-
+微信机器人python版本<br>
+757350134@qq.com<br/>
 https://github.com/liuwons/wxBot （比较活跃）
-***
+
 
 https://github.com/Urinx/WeixinBot 
 
