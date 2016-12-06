@@ -14,6 +14,3 @@ https://github.com/biezhi/wechat-robot          (这个目前好像博主没有�
 
 
 
-#大大大大
- 大苏打似的顶顶顶顶顶撒定期维权
- ![](http://www.baidu.com/img/bdlogo.gif)
