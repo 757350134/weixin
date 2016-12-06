@@ -9,7 +9,7 @@ https://github.com/Urinx/WeixinBot
 
 https://github.com/littlecodersh/ItChat
 
-java版：
+java版：<br>
 https://github.com/biezhi/wechat-robot          (这个目前好像博主没有维护了，不知道啥原因！试了下 也容易断)
 
 
