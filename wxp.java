@@ -13,3 +13,7 @@ class wxp{
  public void saying(){
   System.out.print("你好你好！");
  }
+
+public void saying(){
+   System.out.println("1312312");
+}
