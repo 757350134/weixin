@@ -6,7 +6,9 @@ class wxp{
   this.name=name;
   }
   public void static main(String args[])
-  new wxp(19,"xiaoming"); 
+  
+   wxp w=new wxp(19,"xiaoming"); 
+   System.out.print(w.age);
  }
  public void saying(){
   System.out.print("你好你好！");
