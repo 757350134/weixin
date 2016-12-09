@@ -2,4 +2,9 @@ this is my first!
 
 Hello！wxp0904，
 
+<<<<<<< HEAD
 Hello!你好啊
+=======
+
+Hello!github
+>>>>>>> origin/gh-pages
