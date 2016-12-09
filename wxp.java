@@ -8,3 +8,6 @@ class wxp{
   public void static main(String args[])
   new wxp(19,"xiaoming"); 
  }
+ public void saying(){
+  System.out.print("你好你好！");
+ }
